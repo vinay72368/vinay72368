@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://vinay72368.github.io/portfolio/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/vinay-j-a44375179">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:jujarayvinay1210@gmail.com">Email</a>
+  <a href="https://vinay72368.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/vinay-j-a44375179"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jujarayvinay1210@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ## About
@@ -24,6 +24,13 @@ Based in Bengaluru, India. Open to remote roles.
 - Mentored 10+ junior engineers and contributed to design reviews.
 
 ## Technical skills
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,hibernate,js,postgres,kafka,docker,gcp,git,maven,jenkins,gitlab&theme=dark&perline=12">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,postgres,kafka,docker,gcp,git,maven,jenkins,gitlab&theme=light&perline=12" alt="Core technologies"/>
+  </picture>
+</p>
 
 | Area | Technologies |
 |---|---|
